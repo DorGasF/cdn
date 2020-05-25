@@ -2126,7 +2126,7 @@ label.inline {
   font-size: 13px;
 }
 label.done {
-  color: #7289DA !important;
+  color: #e85510 !important;
   text-decoration: line-through;
 }
 ul > li {
@@ -2241,7 +2241,7 @@ blockquote.pull-right small:after {
   color: #b6bfc5;
 }
 .bg-blue {
-  background-color: #7289DA !important;
+  background-color: #e85510 !important;
 }
 .bg-red {
   background-color: #f35958 !important;
@@ -2274,7 +2274,7 @@ blockquote.pull-right small:after {
   color: #22262E !important;
 }
 .text-info {
-  color: #7289DA !important;
+  color: #e85510 !important;
 }
 .text-warning {
   color: #fbb05e !important;
@@ -2313,7 +2313,7 @@ blockquote.pull-right small:after {
   background-color: #f35958;
 }
 .color-bands.blue {
-  background-color: #7289DA;
+  background-color: #e85510;
 }
 hr {
   margin: 20px 0;
@@ -3635,11 +3635,11 @@ textarea[class*="span"] {
   opacity: 0.65;
 }
 .radio.radio-success label:after {
-  background-color: #7289DA;
-  border: 1px solid #7289DA;
+  background-color: #e85510;
+  border: 1px solid #e85510;
 }
 .radio.radio-success input[type=radio]:checked + label:before {
-  border: 1px solid #7289DA;
+  border: 1px solid #e85510;
 }
 .radio.radio-primary label:after {
   background-color: #22262E;
@@ -3758,8 +3758,8 @@ textarea[class*="span"] {
   background-color: #eceff3;
 }
 .checkbox.check-success input[type=checkbox]:checked + label:before {
-  background-color: #7289DA;
-  border: 1px solid #7289DA;
+  background-color: #e85510;
+  border: 1px solid #e85510;
 }
 .checkbox.check-success input[type=checkbox]:checked + label::after {
   color: #ffffff;
@@ -4105,7 +4105,7 @@ form legend,
 }
 .wizard-steps li.active .step,
 .wizard-steps li.active.complete .step {
-  background-color: #7289DA;
+  background-color: #e85510;
   color: #ffffff;
   font-weight: bold;
   padding: 10px 15px;
@@ -4189,7 +4189,7 @@ form legend,
 }
 .slide-success .ios-switch .on-background {
   background-image: none;
-  background-color: #7289DA;
+  background-color: #e85510;
 }
 .select2-container .select2-choice {
   background-image: none;
@@ -4286,7 +4286,7 @@ form legend,
   color: #282323;
 }
 .select2-results .select2-highlighted {
-  background: #7289DA;
+  background: #e85510;
   border-radius: 3px;
 }
 .select2-results .select2-highlighted .select2-result-label {
@@ -4418,7 +4418,7 @@ form legend,
   color: #22262E;
 }
 .input-append.success .add-on .arrow {
-  color: #7289DA;
+  color: #e85510;
 }
 .input-append.info .add-on .arrow {
   color: #1f3853;
@@ -4452,7 +4452,7 @@ form legend,
 }
 .input-append.success .add-on,
 .input-prepend .add-on {
-  background-color: #7289DA;
+  background-color: #e85510;
   color: #ffffff;
   display: inline-block;
   float: left;
@@ -4537,11 +4537,11 @@ form legend,
   color: #22262E;
 }
 .input-group-addon.success {
-  background-color: #7289DA;
+  background-color: #e85510;
   color: #ffffff;
 }
 .input-group-addon.success .arrow {
-  color: #7289DA;
+  color: #e85510;
 }
 .input-group-addon.info {
   background-color: #1f3853;
@@ -4627,29 +4627,29 @@ form legend,
   font-size: 13px;
 }
 .datepicker thead tr .prev {
-  color: #7289DA;
+  color: #e85510;
   content: '';
   font-size: 0px;
 }
 .datepicker thead tr .prev:before {
-  color: #7289DA;
+  color: #e85510;
   font-family: 'Material Icons';
   content: "\E5CB";
   font-size: 16px;
 }
 .datepicker thead tr .next {
-  color: #7289DA;
+  color: #e85510;
   content: '';
   font-size: 0px;
 }
 .datepicker thead tr .next:before {
-  color: #7289DA;
+  color: #e85510;
   font-family: 'Material Icons';
   content: "\E5CC";
   font-size: 16px;
 }
 .datepicker thead tr .dow {
-  color: #7289DA;
+  color: #e85510;
   text-transform: uppercase;
   font-size: 11px;
 }
@@ -4707,7 +4707,7 @@ form legend,
 .datepicker table tr td.active[disabled]:hover,
 .datepicker table tr td.active.disabled[disabled],
 .datepicker table tr td.active.disabled[disabled]:hover {
-  background-color: #7289DA;
+  background-color: #e85510;
 }
 .datepicker table tr td span.active,
 .datepicker table tr td span.active:hover,
@@ -4737,7 +4737,7 @@ form legend,
 .datepicker table tr td span.active[disabled]:hover,
 .datepicker table tr td span.active.disabled[disabled],
 .datepicker table tr td span.active.disabled[disabled]:hover {
-  background-color: #7289DA;
+  background-color: #e85510;
 }
 .datepicker-inline {
   width: auto;
@@ -5008,7 +5008,7 @@ form legend,
   border-top: none !important;
 }
 .grid.simple.vertical.blue {
-  border-left: 4px solid #7289DA;
+  border-left: 4px solid #e85510;
   border-top: none !important;
 }
 .grid.simple.horizontal.red .grid-title {
@@ -5467,7 +5467,7 @@ form legend,
 .progress-bar {
   box-shadow: none;
   border-radius: 3px;
-  background-color: #7289DA;
+  background-color: #e85510;
   background-image: none;
   -webkit-transition: all 1000ms cubic-bezier(0.785, 0.135, 0.15, 0.86);
   transition: all 1000ms cubic-bezier(0.785, 0.135, 0.15, 0.86);
@@ -5484,7 +5484,7 @@ form legend,
   background-image: none;
 }
 .progress-bar-info {
-  background-color: #7289DA;
+  background-color: #e85510;
   background-image: none;
 }
 .progress-bar-warning {
@@ -5525,7 +5525,7 @@ form legend,
 }
 .progress-success.progress-striped .bar,
 .progress-striped .bar-success {
-  background-color: #7289DA;
+  background-color: #e85510;
 }
 .progress-info.progress-striped .bar,
 .progress-striped .bar-info {
@@ -5576,7 +5576,7 @@ form legend,
 }
 .label-primary,
 .badge-primary {
-  background-color: #7289DA;
+  background-color: #e85510;
   color: #ffffff;
 }
 .label-success,
@@ -5601,7 +5601,7 @@ form legend,
 }
 .label-info,
 .badge-info {
-  background-color: #7289DA;
+  background-color: #e85510;
   color: #ffffff;
 }
 .label-inverse,
@@ -5910,7 +5910,7 @@ form legend,
   color: #ffffff;
 }
 .tiles.red {
-  background-color: #7289DA;
+  background-color: #e85510;
 }
 .tiles.red .button {
   background: #bf3938;
@@ -5924,13 +5924,13 @@ form legend,
   color: #d7d5d7;
 }
 .tiles.blue {
-  background-color: #7289DA;
+  background-color: #e85510;
 }
 .tiles.green {
-  background-color: #7289DA;
+  background-color: #e85510;
 }
 .tiles.black {
-  background-color: #7289DA;
+  background-color: #e85510;
 }
 .tiles.black .blend {
   color: #8b91a0;
@@ -6152,7 +6152,7 @@ form legend,
   width: 12px;
 }
 .widget .widget-title.blue {
-  background-color: #7289DA;
+  background-color: #e85510;
   color: #ffffff;
 }
 .widget .widget-title.red {
@@ -6420,7 +6420,7 @@ h4.custom-line-height {
 }
 .btn-success {
   color: #ffffff;
-  background-color: #7289DA;
+  background-color: #e85510;
   border-radius: 5px 5px 5px;
 }
 .btn-success:hover,
@@ -6581,7 +6581,7 @@ h4.custom-line-height {
   background-color: #f35958;
 }
 .btn-group.open .btn-success.dropdown-toggle {
-  background-color: #7289DA;
+  background-color: #e85510;
 }
 .btn-group.open .btn-info.dropdown-toggle {
   background-color: #1f3853;
@@ -6732,7 +6732,7 @@ code:hover {
   color: #505458;
 }
 .single-colored-widget .content-wrapper.blue {
-  background-color: #7289DA;
+  background-color: #e85510;
 }
 .single-colored-widget .content-wrapper.blue p {
   color: #0a5174;
@@ -6965,7 +6965,7 @@ code:hover {
 .nav-pills > li.active > a,
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus {
-  background-color: #7289DA;
+  background-color: #e85510;
 }
 .nav-tabs > li > a,
 .nav-pills > li > a {
@@ -7085,7 +7085,7 @@ code:hover {
   background-image: none;
 }
 .slider.sucess .slider-track {
-  background: #7289DA;
+  background: #e85510;
   background-image: none;
 }
 .slider.info .slider-track {
@@ -7498,7 +7498,7 @@ input[type="checkbox"] {
   float: left;
 }
 .user-comment-wrapper .comment .user-name {
-  color: #7289DA;
+  color: #e85510;
   font-size: 15px;
   white-space: nowrap;
   overflow: hidden;
@@ -7831,7 +7831,7 @@ input[type="checkbox"] {
 }
 .jvectormap-zoomin,
 .jvectormap-zoomout {
-  background-color: #7289DA;
+  background-color: #e85510;
   padding: 8px 10px;
   height: auto;
   width: auto;
@@ -8091,7 +8091,7 @@ input[type="checkbox"] {
   font-size: 1.3em;
 }
 .cbp_tmtimeline > li .cbp_tmicon.success {
-  background: #7289DA;
+  background: #e85510;
   box-shadow: 0 0 0 8px #2ba3df;
   color: #ffffff;
 }
